@@ -43,7 +43,7 @@
     "rxjs-compat": "^6.2.1",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.26",
-    "cordova-ios": "~4.5.4"
+    "cordova-ios": "~4.5.5"
   },
   "devDependencies": {
     "@ionic/app-scripts": "^3.2.3",
